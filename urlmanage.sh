@@ -11,8 +11,7 @@ BASEDIR=$(dirname "$0")
 echo "$BASEDIR"
 
 sudo cp $BASEDIR/URL* $DIR
-echo "Kész"
-
+echo "URL WHITELIST UPDATDED!"
 read -r "Press enter to continue"
 
 
