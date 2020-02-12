@@ -13,6 +13,7 @@ echo "$BASEDIR"
 sudo cp $BASEDIR/URL* $DIR
 clear
 echo "URL WHITELIST UPDATDED!"
-read -r "Press enter to continue"
+echo "Press enter to exit"
+read -r ""
 
 
