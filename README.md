@@ -14,7 +14,7 @@
     - jobbkatt a file-ra
     - properties/tulajdonságok
     - permissions/engedélyek
-    - **Execute**/**Futtatás**  [x]
+    - **Execute**/**Futtatás**  :heavy_check_mark:
 - mostmár megnyithatod a *whitelistupdater.sh*-t
 - lefut, nyomsz egy Enter-t és kész
 
