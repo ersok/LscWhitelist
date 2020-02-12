@@ -1,9 +1,10 @@
 # Chromium URL whitelist konfiguráló
 ### for LSC
 ## alapvető működés
-- a letöltött repóban található URLWhitelist.json fileban található címeket engedélyezi kizárólag
+- a letöltött repóban található *URLWhitelist.json* fileban található címeket engedélyezi kizárólag
 - ez tetszés szerint módosítható, de minden változtatás után újra kell futtatni hozzá a scriptet, hogy felül írhassa az előző szabályt
 - csak admin felhasználóból futtatható (jelszó szükséges)
+- törli a firefox böngészőt
 
 ## lépések
 - töltsd le a teljes repót
