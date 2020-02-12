@@ -2,6 +2,7 @@
     "URLWhitelist":
     [
         "google.com",
-        "scoolcode.com"
+        "scoolcode.com",
+        "github.com"
     ]
 }
