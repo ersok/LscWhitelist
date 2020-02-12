@@ -10,12 +10,12 @@ sudo mkdir /etc/chromium-browser/policies/managed
 
 " > /etc/chromium-browser/policies/managed/URLBlacklist.json
 echo "Blacklist created"
-{
+"{
     "URLWhitelist":
     [
         "google.com",
         "scoolcode.com"
     ]
-} > /etc/chromium-browser/policies/managed/URLWhitelist.json
+}" > /etc/chromium-browser/policies/managed/URLWhitelist.json
 
 exit 0
