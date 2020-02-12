@@ -18,4 +18,4 @@ echo "Blacklist created"
     ]
 }" > /etc/chromium-browser/policies/managed/URLWhitelist.json
 
-exit 0
+
