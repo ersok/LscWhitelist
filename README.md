@@ -3,8 +3,8 @@
 
 ## alapvető működés
 - a letöltött repóban található URLWhitelist.json fileban található címeket engedélyezi kizárólag
-- ez tetszés szerint módsítható, de minden változtatás után újra kell futtatni hozzá a scriptet, hogy felül írhassa az előző szabályt
-- csak admin felhasználóból futtatható
+- ez tetszés szerint módosítható, de minden változtatás után újra kell futtatni hozzá a scriptet, hogy felül írhassa az előző szabályt
+- csak admin felhasználóból futtatható (jelszó szükséges)
 
 ## lépések
 - töltsd le a teljes repót
