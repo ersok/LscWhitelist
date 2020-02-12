@@ -15,7 +15,7 @@
     - properties/tulajdonságok
     - permissions/engedélyek
     - **Execute**/**Futtatás**  :heavy_check_mark: (checkbox)
-- mostmár megnyithatod a *whitelistupdater.sh*-t
+- mostmár futtathatod a *whitelistupdater.sh*-t 
 - lefut, nyomsz egy Enter-t és kész
 
 
