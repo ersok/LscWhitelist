@@ -1,5 +1,5 @@
 # Logiscool URL whitelist konfiguráló
-## chromium böngészőhöz
+> chromium böngészőhöz
 
 ## alapvető működés
 - a letöltött repóban található URLWhitelist.json fileban található címeket engedélyezi kizárólag
@@ -14,7 +14,7 @@
     - jobbkatt a file-ra
     - properties/tulajdonságok
     - permissions/engedélyek
-    - **Execute**/**Futtatás**  :heavy_check_mark:
+    - **Execute**/**Futtatás**  :heavy_check_mark: (checkbox)
 - mostmár megnyithatod a *whitelistupdater.sh*-t
 - lefut, nyomsz egy Enter-t és kész
 
