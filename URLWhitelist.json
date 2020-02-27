@@ -2,7 +2,11 @@
     "URLWhitelist":
     [
         "google.com",
+        "google.hu",
         "scoolcode.com",
-        "github.com"
+        "github.com",
+        "classdojo.com",
+        "kahoot.com",
+        "kahoot.it"
     ]
 }
